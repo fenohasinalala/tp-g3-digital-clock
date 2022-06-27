@@ -1,0 +1,10 @@
+#bouton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .5em;
+    padding: .2em .6em;
+    font-family: 'Orbitron', sans-serif;    
+    font-size: 2em;
+    border-radius: 0.25em;
+}
