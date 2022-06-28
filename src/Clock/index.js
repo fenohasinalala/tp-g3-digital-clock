@@ -15,6 +15,8 @@ export default function Clock() {
       clearInterval(timer);
     };
   });
+
+  
   
   return (
   <div className="clock-container">

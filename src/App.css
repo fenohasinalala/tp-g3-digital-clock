@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.btn_timer{    
+  position: absolute;
+  top: 2em;
+  left: 2em;
+}
+
+.btn_clock{
+  /*position: absolute;
+  bottom: 1em;
+  right: 30vw;
+  */
+}
+
+.btn_reset{
+  /*
+  position: absolute;
+  bottom: 1em;
+  right: 50vw;
+  */
+}
+
+.btn_start{
+  /*position: absolute;
+  bottom: 1em;
+  right: 60vw;
+  */
+}
+
+.btn_menu{ 
+  display: flex;
+  height: 0;
+  max-width: 45em;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  position: relative;
+  bottom: 10vh; 
+  flex-direction: row;
+}
