@@ -7,4 +7,13 @@
     font-family: 'Orbitron', sans-serif;    
     font-size: 2em;
     border-radius: 0.25em;
+    cursor: pointer;
+    color: white;
+    background-color: #11c711;
+    border-color: #11c711;
 }
+#bouton:hover{
+    background-color: #00f001;
+    border-color: #00f001;
+}
+
