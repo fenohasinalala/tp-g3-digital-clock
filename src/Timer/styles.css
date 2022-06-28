@@ -21,3 +21,13 @@
 .btn_menu{
     display: flex;
 }
+
+.input_time{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 10rem;
+    color: #00f001;
+    border-radius: .15em;
+    width: 1.7em;
+    height: 1em;
+    justify-content: end;
+}
